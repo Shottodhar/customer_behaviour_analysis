@@ -75,5 +75,3 @@ Open the Power BI dashboard file to explore insights
 Conclusion
 
 This project highlights end-to-end data analytics skills, from raw data processing to business intelligence reporting. It demonstrates the ability to convert complex datasets into actionable insights through professional dashboards and reports.
-
-Humanize 328 words
